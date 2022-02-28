@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, I'm Rémi 👋
+## I do code, drawings and experiments...
+
 
 <!--
 **radiium/radiium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
