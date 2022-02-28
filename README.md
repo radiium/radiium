@@ -1,5 +1,5 @@
 ### Hello, I'm Rémi 👋
-### I do code, drawings and others graphic experiments... 
+### I do [code](https://github.com/radiium), [drawings and others graphic experiments](https://radiium.space/)... 
 
 ---
 
