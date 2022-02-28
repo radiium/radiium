@@ -1,8 +1,8 @@
 ### Hello, I'm Rémi 👋
 ---
-## I do code, drawings and experiments...
+### I do code, drawings and experiments...
 ---
-## open to work
+### open to work
 
 ![ionic](https://img.shields.io/badge/-ionic-05122A?style=flat&logo=ionic)
 ![capacitor](https://img.shields.io/badge/-capacitor-05122A?style=flat&logo=capacitor)
