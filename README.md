@@ -5,8 +5,6 @@
 
 ### Languages and Tools:
 
----
-
 ![ionic](https://img.shields.io/badge/-ionic-05122A?style=flat&logo=ionic)
 ![capacitor](https://img.shields.io/badge/-capacitor-05122A?style=flat&logo=capacitor)
 ![angular](https://img.shields.io/badge/-angular-05122A?style=flat&logo=angular)
