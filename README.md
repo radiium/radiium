@@ -10,12 +10,15 @@
 
 ![ionic](https://img.shields.io/badge/-ionic-05122A?style=flat&logo=ionic)
 ![capacitor](https://img.shields.io/badge/-capacitor-05122A?style=flat&logo=capacitor)
+![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=Electron)
 
-![angular](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)
 ![angular](https://img.shields.io/badge/-angular-05122A?style=flat&logo=angular)
+![svelte](https://img.shields.io/badge/-svelte-05122A?style=flat&logo=svelte)
 ![react](https://img.shields.io/badge/-react-05122A?style=flat&logo=react)
 ![vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)
-![svelte](https://img.shields.io/badge/-svelte-05122A?style=flat&logo=svelte)
+
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)
 
 ![express](https://img.shields.io/badge/-express-05122A?style=flat&logo=express)
 ![node.js](https://img.shields.io/badge/-node.js-05122A?style=flat&logo=node.js)
