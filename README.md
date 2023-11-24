@@ -10,8 +10,9 @@
 
 ![ionic](https://img.shields.io/badge/-ionic-05122A?style=flat&logo=ionic)
 ![capacitor](https://img.shields.io/badge/-capacitor-05122A?style=flat&logo=capacitor)
-![angular](https://img.shields.io/badge/-angular-05122A?style=flat&logo=angular)
 
+![angular](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)
+![angular](https://img.shields.io/badge/-angular-05122A?style=flat&logo=angular)
 ![react](https://img.shields.io/badge/-react-05122A?style=flat&logo=react)
 ![vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)
 ![svelte](https://img.shields.io/badge/-svelte-05122A?style=flat&logo=svelte)
