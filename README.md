@@ -2,20 +2,20 @@
 
 ---
 
-### I do [code](https://github.com/radiium), [drawings and others graphic experiments](https://radiium.space/)... 
+### I do [code](https://github.com/radiium), [drawings](https://radiium.space/)... 
 
 ---
 
 ### Languages and Tools:
 
-![ionic](https://img.shields.io/badge/-ionic-05122A?style=flat&logo=ionic)
-![capacitor](https://img.shields.io/badge/-capacitor-05122A?style=flat&logo=capacitor)
-![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=Electron)
-
 ![angular](https://img.shields.io/badge/-angular-05122A?style=flat&logo=angular)
 ![svelte](https://img.shields.io/badge/-svelte-05122A?style=flat&logo=svelte)
 ![react](https://img.shields.io/badge/-react-05122A?style=flat&logo=react)
 ![vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)
+
+![ionic](https://img.shields.io/badge/-ionic-05122A?style=flat&logo=ionic)
+![capacitor](https://img.shields.io/badge/-capacitor-05122A?style=flat&logo=capacitor)
+![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=Electron)
 
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)
