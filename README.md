@@ -2,7 +2,7 @@
 
 ---
 
-### I do [code](https://github.com/radiium), [drawings](https://radiium.space/)... 
+### I do [code](https://github.com/radiium) and [drawings](https://radiium.space/)... 
 
 ---
 
